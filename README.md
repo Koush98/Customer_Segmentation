@@ -53,9 +53,9 @@ These are the problem statements provided.
 14) Create a count plot between "Fuel Type" and "Automatic" and study about what kind of Fueltype cars are having manual Gear Box.
 15) What type of Fueltype is working on most of the cars. 
 
-##Analysis Approach
+## Analysis Approach
 Exploratory Data Analysis (EDA) and Visualization.
-###Tools
+### Tools
 Python
 Jupyter Notebooks
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
