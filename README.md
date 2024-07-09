@@ -4,9 +4,7 @@
 
 - [Introduction](#introduction)
 - [Requirements](#Requirements)
-- [Installation](Installation)
-- [Usage](#usage)
-- [Data](#data)
+- [Model Details](#Model Details)
 - [Contributing](#contributing)
 - [License](#license)
 
