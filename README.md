@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Requirements](#Requirements)
-- [Model Details](#Model Details)
+- [Model-Details](#Model-Details)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -22,7 +22,7 @@ This project provides a customer segmentation model using K-Means clustering. Cu
 - joblib
 - tkinter
 
-## Model Details
+## Model-Details
 - Algorithm:
     - K-Means Clustering
 Features Used:
